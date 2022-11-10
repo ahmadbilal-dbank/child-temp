@@ -1,1 +1,1 @@
-# template-repo
+# template-child-repo
